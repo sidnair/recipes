@@ -1,9 +1,7 @@
 ---
-title:  "Mapo Tofu"
+title: "Mapo Tofu"
 layout: default
 ---
-
-# Mapo Tofu
 
 ## Ingredients
 

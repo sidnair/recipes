@@ -1,4 +1,6 @@
-# Recipes
+---
+title: "Recipes"
+---
 
 ## Chinese
 <ul>
