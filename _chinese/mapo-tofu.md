@@ -9,8 +9,8 @@ layout: default
   likely to break up than soft, but tastes a little nicer. Cut into 1-1.5"
   cubes. Our preferred brand is Mandalay, which we get from Hong Kong supermarket in
   New York
-- 1 cup of [dashi](/chinese/dashi)
-- 2 tbsp and 2.5 tbsp [chili oil](/chinese/chili-oil)
+- 1 cup of [dashi]({{ "/chinese/dashi" | relative_url }})
+- 2 tbsp and 2.5 tbsp [chili oil]({{ "/chinese/chili-oil" | relative_url }})
 - Half of one large leek, chopped roughly
 - 2 tbsp minced garlic
 - 1 tbsp grated ginger
