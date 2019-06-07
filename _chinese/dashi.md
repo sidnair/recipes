@@ -14,4 +14,4 @@ layout: default
 1. Just before it boils, remove the kombu and mushrooms. Save the rehydrated mushrooms for another dish and discard the kombu.
 
 ## Based on
-- The dashi [here](https://www.justonecookbook.com/vegetarian-ramen/).
+- The dashi [here](https://www.justonecookbook.com/vegetarian-ramen/){:target="_blank"}.

@@ -35,9 +35,9 @@ layout: default
 
 ## Based on:
 - Mala Project recipe (they had an outline on their menu at one point)
-- https://thewoksoflife.com/2015/08/how-to-make-chili-oil/
-- https://thewoksoflife.com/2016/01/ginger-scallion-oil-with-chilies/
-- https://thewoksoflife.com/2014/08/sichuan-chicken-chili-oil-sauce-kou-shui-ji/
-- https://thewoksoflife.com/2016/03/homemade-chiu-chow-sauce/
-- https://omnivorescookbook.com/how-to-make-chili-oil/
-- https://www.chilipeppermadness.com/cooking-with-chili-peppers/how-to-make-chili-oil/
+- [https://thewoksoflife.com/2015/08/how-to-make-chili-oil/](https://thewoksoflife.com/2015/08/how-to-make-chili-oil/){:target="_blank"}
+- [https://thewoksoflife.com/2016/01/ginger-scallion-oil-with-chilies/](https://thewoksoflife.com/2016/01/ginger-scallion-oil-with-chilies/){:target="_blank"}
+- [https://thewoksoflife.com/2014/08/sichuan-chicken-chili-oil-sauce-kou-shui-ji/](https://thewoksoflife.com/2014/08/sichuan-chicken-chili-oil-sauce-kou-shui-ji/){:target="_blank"}
+- [https://thewoksoflife.com/2016/03/homemade-chiu-chow-sauce/](https://thewoksoflife.com/2016/03/homemade-chiu-chow-sauce/){:target="_blank"}
+- [https://omnivorescookbook.com/how-to-make-chili-oil/](https://omnivorescookbook.com/how-to-make-chili-oil/){:target="_blank"}
+- [https://www.chilipeppermadness.com/cooking-with-chili-peppers/how-to-make-chili-oil/](https://www.chilipeppermadness.com/cooking-with-chili-peppers/how-to-make-chili-oil/){:target="_blank"}
