@@ -23,7 +23,7 @@ layout: default
     - Konjac noodles, aka shirataki noodles, boiled
     - Dried bean curd sticks, rehydrated and cut
     - Sweet potato, cubed and roasted or boiled
-    - White potato, sliced and pan-roasted
+    - Red waxy potato, sliced and pan-roasted
     - Mushrooms, sliced and pan-roasted
     - Leeks, sliced and pan-roasted
     - Broccoli florets, blanched
