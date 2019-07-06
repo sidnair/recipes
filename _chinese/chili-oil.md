@@ -9,8 +9,9 @@ layout: default
 - 25 peeled cloves (~85g) garlic
 - 50g peeled and chopped ginger
 - 6 tbsp szechuan peppercorn
-- 10 star anise
 - 3 tbsp cumin seeds
+- 1.5 tbsp coriander seeds
+- 10 star anise
 - 6 leaves bay leaf
 - 2 tbsp black cardamom
 - 2 cinnamon stick
