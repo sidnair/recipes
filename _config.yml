@@ -3,3 +3,5 @@ title: Recipes
 collections:
   chinese:
     output: true
+  indian:
+    output: true

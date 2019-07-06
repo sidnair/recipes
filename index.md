@@ -8,3 +8,10 @@ title: "Recipes"
   <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
 {% endfor %}
 </ul>
+
+## Indian
+<ul>
+{% for recipe in site.indian %}
+  <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+{% endfor %}
+</ul>
