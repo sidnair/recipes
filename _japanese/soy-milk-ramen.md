@@ -6,22 +6,22 @@ layout: default
 ## Ingredients
 
 ### Broth and tare
-- 4 cups soy milk
-- 2 cups of [dashi]({{ "/chinese/dashi" | relative_url }})
 - 2 tbsp sesame oil
 - white parts, 4 scallions
 - 2 tbsp minced garlic
-- 1 tbsp ginger
-- 2.66 tbsp broad bean paste
+- 1 tbsp minced ginger
+- 2.66 tbsp la doubanjiang
 - 4 tsp red miso
 - 4 tsp white miso
 - 2 tsp tahini
 - 3 tbsp shaoxing wine
 - 2.66 tbsp soy sauce
+- 4 cups soy milk
+- 2 cups of [dashi]({{ "/chinese/dashi" | relative_url }})
 - Dash of white pepper
 
 ### Noodles
-- Our favorite brand is Sun noodles
+- 4 servings. Our favorite brand is Sun noodles.
 
 ### Toppings
 Whatever you want. Cook separately.
@@ -39,14 +39,14 @@ You'll want about a tablespoon of aroma oil for each bowl of ramen.
 ### Broth
 1. Add sesame oil to saucepan on medium low.
 1. Add garlic, ginger, and white parts of scallions.
-1. Add miso paste and spicy bean paste, stirring constantly.
+1. Add la doubanjiang and miso pastes, stirring constantly.
 1. Deglaze with Shaoxing wine
 1. Add soy sauce
 1. Add soy milk one cup at a time and stir to incorporate.
 1. Add 2 cups of the dashi.
 1. Add white pepper.
 1. Simmer gently, for a few minutes
-1. Strain out the solid and save the broth.
+1. Strain out the solids and save the broth.
 1. Adjust to taste - it's generally fine as-is (including salt), so typically
    don't need to make any adjustments.
 
