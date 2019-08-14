@@ -5,3 +5,5 @@ collections:
     output: true
   indian:
     output: true
+  japanese:
+    output: true

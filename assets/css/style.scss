@@ -12,7 +12,8 @@ ul li {
 }
 
 // Use a border instead of the image GitHub uses by default
-hr, footer {
+hr,
+footer {
   background: none;
   border-top: 1px solid #cccc;
   height: 0;
@@ -22,4 +23,8 @@ hr, footer {
 // Support nesting bullets
 ul > li > ul {
   margin-left: 40px;
+}
+
+h3 {
+  color: #888;
 }
