@@ -13,6 +13,7 @@ layout: default
 - 1.5 tbsp coriander seeds
 - 10 star anise
 - 6 leaves bay leaf
+- 1 tbsp fennel
 - 2 tbsp black cardamom
 - 2 cinnamon stick
 - 2 tsp cloves
