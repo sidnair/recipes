@@ -26,13 +26,3 @@ layout: default
 1. Mix and adjust salt as needed
 
 ## Notes
-
-
-1 cup roasted garam dal
-Tamarind pulp water (~½ cup)
-Few shallots
-4-5 inch ginger
-Many frozen red chilies
-Blend until smooth (ice cream mode for few mins)
-Add coconut, blend very quickly
-Salt to taste (?)
