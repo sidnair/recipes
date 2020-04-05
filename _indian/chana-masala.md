@@ -7,21 +7,21 @@ layout: default
 <div>For the chickpeas:</div>
 - 300 grams (2 cups) of dry chickpeas, soaked with 1/2 tsp baking soda for at least 4 hours and preferably 10 hours
 - 1.5 tsp salt
-- 1/4 tsp clove
+- 1/4 tsp cloves
 - 1 cinnamon stick
 - 2 tsp black tea
-- 1/2 tsp black cardamom
+- 1/2 tsp black cardamom seeds
 
 <div>For the curry:</div>
 - Hing
 - Cumin seeds
 - Bay leaves
 - Green chilies
-- ~525g curry paste (amount from one 450g onion)
-- 1 tsp pomegranate seeds, ground
-- 1/2 tsp tamarind paste
+- ~500g curry paste
+- 1 tsp anardana (dried pomegranate seeds), ground (optional)
+- 1/2 tsp tamarind paste (optional)
 - 1.5 tsp garam masala
-- 1/2 tsp amchur powder
+- 1/2 tsp amchur powder (optional)
 - 1/2 lemon
 - Coriander leaves, for garnish
 

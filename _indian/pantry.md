@@ -11,15 +11,15 @@ most recipes:</div>
 - Coriander
 - Red chili
 - Turmeric
-- Garam msala
+- Garam masala
 
-There's certianly much more you'll want if you're cooking a lot of Indian food,
-but that's a good starting piont.
+There's certainly much more you'll want if you're cooking a lot of Indian food,
+but that's a good starting point.
 
 Indian food also uses a lot of onion (red or yellow works for most recipes),
 garlic, and ginger, so you'll want those on hand. We normally put garlic and
-ginger in a food processor, and freeze them.  That way, we just have one
-container of garlic and one of ginger in the fridge at any time.
+ginger in a food processor and freeze them (separately). That way, we just have
+one container of garlic and one of ginger in the fridge at any time.
 
 
 ## Helpful resources

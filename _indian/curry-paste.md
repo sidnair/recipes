@@ -5,8 +5,9 @@ description: "Basic curry paste that I use for a lot of recipes. Can be made in 
 ---
 
 ## Ingredients
-- 2000g red onions, cut roughly
-- 4 tbsp garlic, 2 tbsp ginger
+- 2kg red onions, cut roughly
+- 4 tbsp garlic
+- 2 tbsp ginger
 - 1 tsp turmeric
 - 2 tbsp red chili
 - 4 tbsp coriander
