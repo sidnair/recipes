@@ -8,7 +8,7 @@ layout: default
 - 2 tbsp cashew yogurt or previous yogurt starter
 
 ## Steps
-1. Put in container in Instant Pot on the yogurt setting for 13:30.
+1. Put in container in Instant Pot on the yogurt setting for 13:00.
 
 ## Notes
 
