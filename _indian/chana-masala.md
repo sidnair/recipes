@@ -1,10 +1,10 @@
 ---
-title: "Chana masala"
+title: "Chana Masala"
 layout: default
 ---
 
 ## Ingredients
-For the chickpeas:
+<div>For the chickpeas:</div>
 - 300 grams (2 cups) of dry chickpeas, soaked with 1/2 tsp baking soda for at least 4 hours and preferably 10 hours
 - 1.5 tsp salt
 - 1/4 tsp clove
@@ -12,7 +12,7 @@ For the chickpeas:
 - 2 tsp black tea
 - 1/2 tsp black cardamom
 
-For the curry:
+<div>For the curry:</div>
 - Hing
 - Cumin seeds
 - Bay leaves

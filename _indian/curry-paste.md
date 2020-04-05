@@ -1,9 +1,8 @@
 ---
-title: "Curry paste"
+title: "Curry Paste"
 layout: default
+description: "Basic curry paste that I use for a lot of recipes. Can be made in advance and frozen."
 ---
-
-Basic curry paste that I use for a lot of recipes. Can be made in advance and frozen.
 
 ## Ingredients
 - 2000g red onions, cut roughly

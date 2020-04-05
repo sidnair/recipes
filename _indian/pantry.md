@@ -4,10 +4,8 @@ layout: default
 ---
 
 ## Basic ingredients
-
-Basic spices you'll want for Indian food - this covers what you need for most
-recipes.
-
+<div>Basic spices you'll want for Indian food - this covers what you need for
+most recipes:</div>
 - Cumin seeds
 - Cumin
 - Coriander
@@ -29,8 +27,6 @@ container of garlic and one of ginger in the fridge at any time.
 I normally don't cook to someone else's recipe any more, but these were very
 helpful when I was getting started. And if I'm looking to make something totally
 new, I'll normally cross-check against a couple recipes for commonalities.
-
-
 - [Vahchef](https://www.youtube.com/channel/UC_R8qIXaTKpkAJuuiZhHTmA) - has lots
   of recipes. The more recent videos are less helpful, but has a lot of good
   older videos

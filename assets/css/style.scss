@@ -20,11 +20,33 @@ footer {
   margin: 0;
 }
 
+ul,
+ol {
+    margin-left: 20px;
+}
+
 // Support nesting bullets
-ul > li > ul {
-  margin-left: 40px;
+ul > li > ul,
+ol > li > ol {
+  margin-left: 60px;
+}
+
+header {
+    padding: 30px 0 15px;
+}
+
+p.description {
+    color: #aaa;
+    font-size: 18px;
+    letter-spacing: -1px;
+    margin: 5px 0 0;
 }
 
 h3 {
   color: #888;
+}
+
+p {
+    font-weight: normal;
+    margin-bottom: 10px;
 }
