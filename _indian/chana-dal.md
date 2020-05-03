@@ -8,7 +8,7 @@ layout: default
 - 1.5 cups of dry chana dal, soaked for 1 hour
 - 1/2 tsp turmeric powder
 
-<div>For the curry:</div>
+<div>For the rest:</div>
 - 1.5 tsp cumin seeds
 - Pinch hing
 - 1/2 cup diced red onion
@@ -32,5 +32,5 @@ layout: default
 1. Add garam masala to finish.
 
 ## Variations
-- Instead of garam masala, tamarind paste works well.
+- For a different style of dal, you can add tamarind paste at the end instead of garam masala.
 - Without an Instant Pot, the dal can be cooked on the stovetop for 45-60 minutes.
